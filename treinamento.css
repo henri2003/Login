@@ -1,0 +1,119 @@
+ @charset "utf-8";
+
+
+ @font-face {
+  font-family: 'Kerox';
+  src: url(fontes/Kerox-NonCommercial.otf);
+ }
+ 
+ 
+ body{
+  display: grid; 
+  min-height: 700px;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: 1fr;
+  background-color: black;
+ 
+ }
+
+
+ .login{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 200px ;
+  min-width: 450px;
+  min-height: 500px;
+  border-radius: 100%;
+  box-shadow: 2px 1px  #00ffff;
+  background-color: black;
+  
+ }
+
+ .id{
+  width: 250px;
+  height: 30px;
+  align-self: self-end;
+  margin-bottom: 10px;
+  border-radius: 30px  ;
+  text-align:center ;
+  background-color: rgba(240, 248, 255, 0.199);
+ }
+
+ .senha{
+  width: 250px;
+  height: 30px;
+  border-radius: 30px ;
+  text-align: center;
+  background-color:  rgba(240, 248, 255, 0.199);
+ }
+
+ .user{
+  display: grid;
+   
+  justify-content: center;
+  background-color: #0000;
+ 
+ }
+
+ .user a {
+    text-decoration: none;
+    color: #ffffff67;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 13px;
+ }
+
+
+
+
+ main h1{
+  font-size: 30px;
+  font-family: 'Kerox';
+  margin: auto;
+  color: #ffffff6d;
+  
+ }
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+  
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
