@@ -2,8 +2,8 @@
 
 
  @font-face {
-  font-family: 'Kerox';
-  src: url(fontes/Kerox-NonCommercial.otf);
+  font-family: 'Protest';
+  src: url(fontes/Protest\ Demo.ttf);
  }
  
  
@@ -69,7 +69,7 @@
 
  main h1{
   font-size: 30px;
-  font-family: 'Kerox';
+  font-family: 'Protest';
   margin: auto;
   color: #ffffff6d;
   
